@@ -1,0 +1,25 @@
+{
+	"name": "etanova/PortletGamma",
+	"description": "Portlets for use within the Etanova Framework",
+	"authors": [
+		{
+			"name": "Etanova Enterprise Solutions",
+			"email": "contact@etanova.com",
+			"homepage": "http://www.etanova.com"
+		}
+	],
+	"keywords": [
+		"Framework",
+		"Etanova"
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"homepage": "https://www.etanova.com",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Etanova\\": ""
+		}
+	}
+}
