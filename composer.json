@@ -18,6 +18,9 @@
 	"homepage": "https://www.etanova.com",
 	"license": "MIT",
 	"autoload": {
+		"classmap": [
+			"controllers"
+		],
 		"psr-4": {
 			"Etanova\\": ""
 		}
